@@ -10,6 +10,7 @@
     <title>Document</title>
 </head>
 <body>
+   <%@ include file="header.jsp"%>
     <div class="container">
     <div>
         <h2>게시판</h2>
